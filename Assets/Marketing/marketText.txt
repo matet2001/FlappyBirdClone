@@ -1,0 +1,4 @@
+Sziasztok!
+Csináltam egy flappy bird clone-t unity-ben, online leaderboard-al, szóval aki akar egyet versenyezni ebben a relaxáló játékban annak itt a link https://matet2001.itch.io/flappy-bird-by-matet2001
+
+LootLocker-t használok a leaderboard-hoz, és a project érdekessége hogy itt próbáltam ki SuperUnityBuild nevű assetet, amit az itch.io ajánl, automata buildeléshez több platformra egyszerre. Illetve össze integráltam egy butler nevű szintén itch.io assetel, amivel automatikusan lehet feltölteni az új buildeket itch-re, az összes platformhoz.
